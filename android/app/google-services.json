@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "246322481984",
+    "project_id": "training-ea8b4",
+    "storage_bucket": "training-ea8b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246322481984:android:8270cae664440fb0c188a5",
+        "android_client_info": {
+          "package_name": "com.example.fcm_traning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246322481984-t671ruqao75biaosp3574t582psi9hi6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4zltHp9n67nr2xMhdDgIdAB9pI_1pPII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246322481984-t671ruqao75biaosp3574t582psi9hi6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
